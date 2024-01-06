@@ -1,4 +1,7 @@
 # google-interface
+
+[DEMO](https://damilareodedina.github.io/google-interface/)
+
 This is a frontend interface of Google search, built with HTML and CSS only. This does not include any functionality and is intended for educational and demonstration purposes only.
 It is released under MIT license. For more information on MIT lincense, please visit the open source initiatie website at opensource.org.
 
